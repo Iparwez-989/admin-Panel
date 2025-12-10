@@ -69,3 +69,8 @@ Password: emilyspass
 - Client-side caching to reduce API calls
 - Protected routes redirect unauthenticated users to login
 
+#Steps to run
+- Npm install
+- npm run dev
+- enter username as emilys
+- enter password as emilyspass
